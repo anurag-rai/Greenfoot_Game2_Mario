@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=level
+comment0.target=Person(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getSpeed()
+comment3.params=
+comment3.target=boolean\ getJump()
+comment4.params=
+comment4.target=int\ getLevel()
+comment5.params=
+comment5.target=int\ getLife()
+numComments=6
